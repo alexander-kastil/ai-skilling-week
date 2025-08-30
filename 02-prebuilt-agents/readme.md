@@ -1,4 +1,11 @@
-# Pre-built Agents
+# Prebuilt Agents
+
+- Facilitator Agent
+- Analyst Agent
+- Researcher Agent
+- Survey Agent
+
+[Get started with agents in Microsoft 365 Copilot](https://support.microsoft.com/en-us/topic/get-started-with-agents-in-microsoft-365-copilot-943e563d-602d-40fa-bdd1-dbc83f582466)
 
 ## Facilitator Agent
 

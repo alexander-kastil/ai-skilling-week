@@ -2,7 +2,7 @@
 
 - Page with AI Agent
 - How to create Agents
-- Where Agents are stored
+- Deploy and Publish Agents
 - Use Agent in Teams
 
 ## Page with AI Agent
