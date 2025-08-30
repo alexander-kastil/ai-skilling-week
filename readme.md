@@ -2,6 +2,8 @@
 
 Welcome to the Microsoft AI Skilling Week repository! This repository contains resources and materials for the "Personal Productivity with AI Agents" workshop. The workshop is designed to help you understand how to leverage AI agents to enhance your personal productivity.
 
+![talk](_images/skilling-week-talk.png)
+
 ## Workshop Agenda
 
 - Copilot & Agents Overview
