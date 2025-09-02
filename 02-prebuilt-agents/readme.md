@@ -104,3 +104,17 @@ This is a no-code agent designed to assist with research tasks, providing releva
 - Software Architect: Webservice for FinanzOnline?
 - Software Architect: Incoming Calls from Teams and Phone?
 - IOS App to accelerate pronunciation.
+
+### Market and competitive research
+
+- "What are the emerging trends in the electric vehicle market for 2025?"
+- "Compare our top three competitors' go-to-market strategies."
+- "Summarize recent merger and acquisition activity in the cloud computing space."
+- "What market risks should we consider before entering Southeast Asia?"
+
+### Background and context building
+
+- "Give me a summary of generative AI applications in healthcare."
+- "What's the history and mission of [Company Name]?"
+- "Create a briefing on ESG (Environmental, Social, and Governance) regulations in Europe."
+- "What are the pros and cons of hybrid work policies?"
