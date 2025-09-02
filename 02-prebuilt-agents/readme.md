@@ -1,5 +1,6 @@
 # Prebuilt Agents
 
+- Microsoft Designer
 - Facilitator Agent
 - Analyst Agent
 - Researcher Agent
@@ -7,22 +8,48 @@
 
 [Get started with agents in Microsoft 365 Copilot](https://support.microsoft.com/en-us/topic/get-started-with-agents-in-microsoft-365-copilot-943e563d-602d-40fa-bdd1-dbc83f582466)
 
+## Microsoft Designer
+
+Microsoft Designer is an AI-powered graphic design tool that helps users create stunning visuals with ease. It leverages advanced AI models to generate design suggestions, layouts, and graphics based on user input.
+
 ## Facilitator Agent
 
-- Show Recorded Meeting
+- Show Recorded Meeting and how to extract information using Facilitator Agent
 
 ## Analyst
 
--
+- Explain an Excel spreadsheet and its content.
+- Upload it to OneDrive.
 
-## Researcher Agent
+Set the initial prompt in Analyst Agent:
 
-This is a no-code agent designed to assist with research tasks, providing relevant information and resources.
+```plaintext
+Analyze this spreadsheet and tell me the top three trends. Explain your findings
+```
 
-- Vacuum Cleaner Replacement
-- Software Architect: Webservice for FinanzOnline?
-- Software Architect: Incoming Calls from Teams and Phone?
-- IOS App to accelerate pronunciation.
+Questions:
+
+```plaintext
+What is the average rating for each survey category?
+```
+
+Quantitative analysis prompts:
+
+```plaintext
+What percentage of participants rated timeline adherence below 3?
+```
+
+```plaintext
+What are the key areas for improvement suggested by the participants?
+```
+
+```plaintext
+Create a correlation heatmap for all numeric rating categories.
+```
+
+```plaintext
+Thank you. Create a list of questions that can be used to create such a survey. I will use this later on in the surveys agent
+```
 
 ## Survey Agent
 
@@ -34,20 +61,46 @@ Features:
 - Real-time response collection
 - Analytics dashboard for insights
 
-### Event Satisfaction Survey
+### Initial Demo
 
 ```plaintext
-Help me create an employee satisfaction survey to evaluate the result of an online event. Please include overall rating, more in-depth ratings for culture categories, and open-ended feedback to elaborate. Add first name, last name, and email address fields.
+Create a survey based on this questions:
+
+Project Satisfaction
+* How satisfied are you with the overall outcome of the project?
+* Did the project meet your expectations?
+* How likely are you to recommend this project’s approach to others?
+Communication Effectiveness
+* How clear and consistent was the communication throughout the project?
+* Were you kept informed about project progress and changes?
+* How responsive was the project team to your questions or concerns?
+Timeline Adherence
+* Was the project completed within the expected timeframe?
+* How well were deadlines communicated and managed?
+* Did delays (if any) impact your experience or deliverables?
+Overall Experience
+* How would you rate your overall experience with the project?
+* What aspects of the project did you find most valuable?
+* What could have improved your experience?
+Technical & Operational Aspects
+* Did you encounter any technical issues during the project?
+* How effective were the tools and platforms used?
+* Was the project documentation sufficient and helpful?
+Collaboration & Teamwork
+* How well did team members collaborate across roles?
+* Did you feel your input was valued during the project?
+* Were responsibilities and roles clearly defined?
+Open Feedback
+* What went well in this project?
+* What areas need improvement?
+* Any additional comments or suggestions?
 ```
 
-### Vacation Request
+## Researcher Agent
 
-```plaintext
-Help me create a vacation request form that includes fields for first name, last name, email address, department, and dates of the requested time off and other common fields in a vacation request form.
-```
+This is a no-code agent designed to assist with research tasks, providing relevant information and resources.
 
-### Hardware Problem Reporting
-
-```plaintext
-Help me create a survey to report hardware problems and request replacements for laptops, phones, iPads, and access keys. Please include fields for first name, last name, department, and email address.
-```
+- Vacuum Cleaner Replacement
+- Software Architect: Webservice for FinanzOnline?
+- Software Architect: Incoming Calls from Teams and Phone?
+- IOS App to accelerate pronunciation.
