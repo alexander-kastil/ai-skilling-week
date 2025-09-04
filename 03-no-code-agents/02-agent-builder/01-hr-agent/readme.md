@@ -20,6 +20,12 @@ Besides the things mentioned in the career coach template, this agent should be 
 
 ### Artifact Creation
 
+#### Onboarding Checklist - Word
+
+```plaintext
+Create a tailored onboarding checklist for tech roles in a large corporation with 500+ users. The checklist should emphasize access to development tools, environments, and collaboration workflows, and cover steps from pre-onboarding to the first 90 days
+```
+
 ### Survey Agent
 
 #### Event Satisfaction Survey
