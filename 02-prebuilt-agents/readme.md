@@ -12,6 +12,49 @@
 
 Microsoft Designer is an AI-powered graphic design tool that helps users create stunning visuals with ease. It leverages advanced AI models to generate design suggestions, layouts, and graphics based on user input.
 
+## Survey Agent
+
+This is a no-code agent designed to conduct surveys and gather feedback from users.
+
+Features:
+
+- Customizable survey templates
+- Real-time response collection
+- Analytics dashboard for insights
+
+### Initial Demo
+
+```plaintext
+Create a survey based on this questions:
+
+Project Satisfaction
+* How satisfied are you with the overall outcome of the project?
+* Did the project meet your expectations?
+* How likely are you to recommend this project’s approach to others?
+Communication Effectiveness
+* How clear and consistent was the communication throughout the project?
+* Were you kept informed about project progress and changes?
+* How responsive was the project team to your questions or concerns?
+Timeline Adherence
+* Was the project completed within the expected timeframe?
+* How well were deadlines communicated and managed?
+* Did delays (if any) impact your experience or deliverables?
+Overall Experience
+* How would you rate your overall experience with the project?
+* What aspects of the project did you find most valuable?
+* What could have improved your experience?
+Open Feedback
+* What went well in this project?
+* What areas need improvement?
+* Any additional comments or suggestions?
+```
+
+Steps:
+
+- Create the survey
+- Monitor this survey
+- Check response status
+
 ## Facilitator Agent
 
 - Show Recorded Meeting and how to extract information using Facilitator Agent
@@ -51,49 +94,8 @@ Create a correlation heatmap for all numeric rating categories.
 Thank you. Create a list of questions that can be used to create such a survey. I will use this later on in the surveys agent
 ```
 
-## Survey Agent
-
-This is a no-code agent designed to conduct surveys and gather feedback from users.
-
-Features:
-
-- Customizable survey templates
-- Real-time response collection
-- Analytics dashboard for insights
-
-### Initial Demo
-
-```plaintext
-Create a survey based on this questions:
-
-Project Satisfaction
-* How satisfied are you with the overall outcome of the project?
-* Did the project meet your expectations?
-* How likely are you to recommend this project’s approach to others?
-Communication Effectiveness
-* How clear and consistent was the communication throughout the project?
-* Were you kept informed about project progress and changes?
-* How responsive was the project team to your questions or concerns?
-Timeline Adherence
-* Was the project completed within the expected timeframe?
-* How well were deadlines communicated and managed?
-* Did delays (if any) impact your experience or deliverables?
-Overall Experience
-* How would you rate your overall experience with the project?
-* What aspects of the project did you find most valuable?
-* What could have improved your experience?
-Technical & Operational Aspects
-* Did you encounter any technical issues during the project?
-* How effective were the tools and platforms used?
-* Was the project documentation sufficient and helpful?
-Collaboration & Teamwork
-* How well did team members collaborate across roles?
-* Did you feel your input was valued during the project?
-* Were responsibilities and roles clearly defined?
-Open Feedback
-* What went well in this project?
-* What areas need improvement?
-* Any additional comments or suggestions?
+```paintext
+Ich bin mit dem Konzept einer Korrelations-Heatmap nicht vertraut. Kannst du es mir erklären?
 ```
 
 ## Researcher Agent
