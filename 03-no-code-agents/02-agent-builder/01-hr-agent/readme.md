@@ -2,6 +2,10 @@
 
 This is a no-code agent designed to assist with HR-related tasks.
 
+Creation:
+
+I want to create an Human Resources (HR) agent with the name "Employee Buddy" that can provide personalized career advice, help with setting career goals, suggest action plans, and answer questions related to HR processes based on the knowledge available to it.
+
 Description:
 
 ```plaintext
